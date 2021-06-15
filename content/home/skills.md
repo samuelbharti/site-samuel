@@ -21,13 +21,13 @@ feature:
   icon_pack: fab
   name: R
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+  icon: python
+  icon_pack: fab
+  name: Python
 - description: 10%
-  icon: camera-retro
+  icon: chart-bar
   icon_pack: fas
-  name: Photography
+  name: Data Analysis
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
