@@ -22,28 +22,69 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Technical Lead (Bioinformatics Pathway)
+    company: STEM-Away
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2021-06-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: R Shiny App Bioinformatics Transcriptomics Pipeline
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: AI.MED Lab, UAB
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Alabama,USA
+    date_start: '2020-08-01'
+    date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Bachelor Thesis
+    company: AI.MED Lab, UAB
+    company_url: ''
+    company_logo: org-x
+    location: Alabama,USA
+    date_start: '2021-02-01'
+    date_end: '2021-06-01'
+    description: Statistical Enrichment Analysis of Samples (SEAS).
+
+  - title: Research Intern
+    company: Jawaharlal Nehru Unviversity
+    company_url: ''
+    company_logo: org-x
+    location: Delhi, India
+    date_start: '2020-04-01'
+    date_end: '2020-09-01'
+    description: Worked Meta-analysis of Parkinson’s disease microarray data to identify blood biomark.
+
+  - title: Student Researcher
+    company: Centre for Computational Biology and Bioinformatics, Amity University
+    company_url: ''
+    company_logo: org-x
+    location: Uttar Pradesh, India
+    date_start: '2017-07-01'
+    date_end: '2021-07-01'
+    description: Full Stack Developement of Bioactive peptide database.
+
+  - title: Student Researcher
+    company: Systems Biology and Data Analytics Research Lab, Amity University
+    company_url: ''
+    company_logo: org-x
+    location: Uttar Pradesh, India
+    date_start: '2017-07-01'
+    date_end: '2021-07-01'
+    description: Full Stack Developement of Viligo Database- VIRdb2.0.
+
+  - title: Class Representative
+    company: Amity Institute of Biotechnology, Amity University
+    company_url: ''
+    company_logo: org-x
+    location: Uttar Pradesh, India
+    date_start: '2017-07-01'
+    date_end: '2021-07-01'
+    description: ''.
+
 
 design:
   columns: '2'
