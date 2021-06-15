@@ -45,7 +45,7 @@ experience:
     company_url: ""
     company_logo: org-x
     location: Alabama
-    date_start: "2021-02-01
+    date_start: "2021-02-01"
     date_end: "2021-06-01"
     description: Statistical Enrichment Analysis of Samples (SEAS)
 
