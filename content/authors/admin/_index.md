@@ -1,7 +1,7 @@
 ---
 title: Samuel Bharti
 role: Freelance Bioinformatician
-avatar_filename: samuel_bharti.jpeg
+avatar_filename: avatar.jpeg
 bio: My research interests include computational systems biology, health
   informatics and multi-omics data intergration.
 interests: []
